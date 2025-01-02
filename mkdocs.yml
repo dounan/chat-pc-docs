@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: ChatPC Documentation
+site_url: https://docs.chatpc.ai
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: green
+    accent: deep purple
