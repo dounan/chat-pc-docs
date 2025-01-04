@@ -34,3 +34,5 @@ theme:
   palette:
     primary: custom
     accent: custom
+watch:
+  - overrides

@@ -58,4 +58,4 @@ on openFile(fileURL)
 end openFile
 ```
 
-You can [download more example scripts here](/releases/example-scripts.zip).
+You can [download more example scripts here](https://chatpc.ai/releases/example-scripts.zip).
