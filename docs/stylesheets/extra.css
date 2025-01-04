@@ -8,7 +8,17 @@
 }
 
 .download-section {
+  display: inline-block;
   text-align: center;
+}
+
+.download-section p {
+  margin: 0;
+}
+
+.md-button {
+  border-radius: 0.25rem !important;
+  padding: .375rem .75rem !important;
 }
 
 .md-button--cta {
@@ -23,6 +33,19 @@
 }
 
 .caption {
-  font-size: 0.7em;
+  font-size: 0.8em;
   font-weight: normal;
+}
+
+footer {
+  padding: 2em 0;
+  font-size: 14px !important;
+}
+
+footer a {
+  margin-left: 0.5em;
+}
+
+footer .text-secondary {
+  color: #6c757d;
 }

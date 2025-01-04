@@ -1,3 +1,10 @@
+copyright: © 2024 ChatPC
+extra:
+  generator: false
+  homepage: https://chatpc.ai
+  social:
+    - icon: fontawesome/brands/mastodon
+      link: https://fosstodon.org/@squidfunk
 extra_css:
   - stylesheets/extra.css
 markdown_extensions:
@@ -6,13 +13,24 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+nav:
+  - index.md
+  - use-cases.md
+  - keyboard-shortcuts.md
+  - custom-actions.md
+  - workflow-integration.md
 site_name: ChatPC Documentation
 site_url: https://docs.chatpc.ai
 theme:
   favicon: images/favicon.ico
   features:
     - navigation.top
+    - navigation.tracking
+    - toc.follow
+    - toc.integrate
+  logo: images/logo.png
   name: material
+  custom_dir: overrides
   palette:
     primary: custom
     accent: custom
