@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block scripts %}
+  {{ super() }}
+
+  <script src="https://getinsights.io/js/insights.js"></script>
+  <script>
+    insights.init('pUPwclAhBaUqSqK6');
+    insights.trackPages();
+  </script>
+{% endblock %}
