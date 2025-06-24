@@ -3,7 +3,7 @@
 ## Download ChatPC
 
 <div class="download-section" markdown>
-[Download for macOS &nbsp; :octicons-download-16:](https://github.com/dounan/chat-pc-site/releases/download/v0.42/ChatPC.v0.42.zip){ .md-button .md-button--cta } <br> _Requires macOS 13.0 or higher_{ .caption }
+[Download for macOS &nbsp; :octicons-download-16:](https://github.com/dounan/chat-pc-site/releases/download/v0.43/ChatPC.v0.43.zip){ .md-button .md-button--cta } <br> _Requires macOS 13.0 or higher_{ .caption }
 </div>
 
 1. Unzip the downloaded .zip file.
